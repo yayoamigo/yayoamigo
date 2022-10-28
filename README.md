@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/daviddanielzam6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidanielzam6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/david zambrano corral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david zambrano corral" height="30" width="40" /></a>
+<a href="https://ec.linkedin.com/in/david-zambrano-corral-b87a4198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david zambrano corral" height="30" width="40" /></a>
 <a href="https://instagram.com/davidzambrano_coc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@davidzambrano_coc" height="30" width="40" /></a>
 <a href="https://www.youtube.com/user/batek34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yayo amigo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/davidcorral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="david corral" height="30" width="40" /></a>
