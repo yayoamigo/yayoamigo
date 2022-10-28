@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
+![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm David Zambrano</h1>
 <h3 align="center">I'm a software engineer/data analyst who is passionate about developing high-quality software solutions and creating technology to elevate people, and build community. Some technologies I enjoy working with include Java, Ruby, Rails, ReactJS, and Jamstack (JavaScript, APIs + Markup). In 2022, I was admitted to Microverse to start training on full-stack web development skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -24,8 +24,8 @@
 <a href="https://twitter.com/daviddanielzam6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidanielzam6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/david zambrano corral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david zambrano corral" height="30" width="40" /></a>
 <a href="https://instagram.com/davidzambrano_coc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@davidzambrano_coc" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yayo amigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yayo amigo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/david corral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="david corral" height="30" width="40" /></a>
+<a href="https://www.youtube.com/user/batek34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yayo amigo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/davidcorral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="david corral" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@david__101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@david__101" height="30" width="40" /></a>
 </p>
 
