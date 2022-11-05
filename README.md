@@ -1,6 +1,6 @@
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm David Zambrano</h1>
-<h3 align="center">I'm a software engineer/data analyst who is passionate about developing high-quality software solutions and creating technology to elevate people, and build community. Some technologies I enjoy working with include Java, Ruby, Rails, ReactJS, and Jamstack (JavaScript, APIs + Markup). In 2022, I was admitted to Microverse to start training on full-stack web development skills.</h3>
+<h3 align="center">I'm a software engineer/data analyst who is passionate about developing high-quality software solutions and creating technology to elevate people, and build community. Some technologies I enjoy working with include node, Ruby, Rails, ReactJS, and Jamstack (JavaScript, APIs + Markup). In 2022, I was admitted to Microverse to start training on full-stack web development skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yayoamigo&label=Profile%20views&color=0e75b6&style=flat" alt="yayoamigo" /> </p>
